@@ -5,5 +5,5 @@
 Para rodar este projeto na sua maquina, por favor digite:
 
 '''
-npn instal react
+node app.sj
 '''
